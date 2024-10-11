@@ -1,6 +1,10 @@
 ## Create your Mezon application
 
-Go to [Developers](https://dev-developers.nccsoft.vn/) and create your application.
+Visit the [Developers Portal](https://dev-developers.nccsoft.vn/) to create your application.
+
+## Add bot to your clan
+
+Use your install link in a browser to add your bot to your desired clan.
 
 ## Installation
 
@@ -8,7 +12,7 @@ Go to [Developers](https://dev-developers.nccsoft.vn/) and create your applicati
 $ yarn
 ```
 
-copy `.env.example` to `.env` and replace your application token
+Copy `.env.example` to `.env` and replace it with your application token.
 
 ## Running the app
 
