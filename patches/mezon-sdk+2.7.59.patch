@@ -1,0 +1,15 @@
+diff --git a/node_modules/mezon-sdk/dist/cjs/client.js b/node_modules/mezon-sdk/dist/cjs/client.js
+index 61d3be1..8425821 100644
+--- a/node_modules/mezon-sdk/dist/cjs/client.js
++++ b/node_modules/mezon-sdk/dist/cjs/client.js
+@@ -24,8 +24,8 @@ const enum_1 = require("./constants/enum");
+ const helper_1 = require("./utils/helper");
+ const generate_reply_message_1 = require("./utils/generate_reply_message");
+ const stack_1 = require("./utils/stack");
+-const DEFAULT_HOST = "api.mezon.vn";
+-const DEFAULT_PORT = "443";
++const DEFAULT_HOST = "dev-mezon.nccsoft.vn";
++const DEFAULT_PORT = "7305";
+ const DEFAULT_API_KEY = "";
+ const DEFAULT_SSL = true;
+ const DEFAULT_TIMEOUT_MS = 7000;
