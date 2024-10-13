@@ -2964,10 +2964,10 @@ merge-stream@^2.0.0:
   resolved "https://registry.yarnpkg.com/merge-stream/-/merge-stream-2.0.0.tgz#52823629a14dd00c9770fb6ad47dc6310f2c1f60"
   integrity sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w==
 
-mezon-sdk@^2.7.59:
-  version "2.7.59"
-  resolved "https://registry.yarnpkg.com/mezon-sdk/-/mezon-sdk-2.7.59.tgz#1dfa4eb0eb9deebdf5b05d973e6f08d0f6a374d7"
-  integrity sha512-itYoayTCe6L3blXZxHNWVk+k7me15NohZvGyQJ8/9/yg7OIoVaslwybFKsOa3zj/mvlfoYdMtwdVg1yN9+gvgg==
+mezon-sdk@^2.7.61:
+  version "2.7.61"
+  resolved "https://registry.yarnpkg.com/mezon-sdk/-/mezon-sdk-2.7.61.tgz#471e900e02101657f6cf83c68e1091655eda45b8"
+  integrity sha512-ViiRLsAHUDDYqjdFKHtb91AfpYRr8YMBb+Xj48SZ0HfyQTQ0tAK+4C1D++nsCH29h2faidcB3RDjrRZbu6k53w==
   dependencies:
     "@types/ws" "^8.5.12"
     base64-arraybuffer "^1.0.2"

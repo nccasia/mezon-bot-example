@@ -14,11 +14,9 @@ async function main() {
     if (event?.content?.t === "*ping") {
       client.sendMessage(
         event?.clan_id,
-        "0",
         event?.channel_id,
         2,
         event?.is_public,
-        true,
         { t: "pong" },
         [],
         [],
